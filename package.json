@@ -20,9 +20,14 @@
     "parcel-bundler": "^1.12.3"
   },
   "dependencies": {
+    "@babel/polyfill": "^7.4.4",
+    "animejs": "^3.0.1",
     "autoprefixer": "^9.6.0",
     "postcss-modules": "^1.4.1",
     "react": "^16.8.6",
-    "react-dom": "^16.8.6"
+    "react-dom": "^16.8.6",
+    "react-redux": "^7.1.0",
+    "redux": "^4.0.1",
+    "sass": "^1.21.0"
   }
 }

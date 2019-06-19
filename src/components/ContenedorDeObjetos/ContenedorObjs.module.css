@@ -1,0 +1,22 @@
+.ContentElements {
+  display: grid;
+  grid-template-columns: repeat(auto-fill,  minmax(4px, 1fr));
+}
+.Suelo {
+  widows: 100%;
+  height: 12px;
+  transform: translateY(1000px);
+  background-color:blueviolet;
+}
+.Balon1 {
+  width: 4px; 
+  height: 4px;
+  border-radius: 50%; 
+  background-color: blue;
+}
+.Balon2 {
+  width: 12px; 
+  height: 12px;
+  border-radius: 50%; 
+  background-color: red;
+}
